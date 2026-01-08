@@ -1,2 +1,2 @@
 # LE SITE EST EN CONSTRUCTION
-Pour le forum / wiki : clique https://forum.emhub.ch
+Pour le forum / wiki :  <a href="https://forum.emhub.ch/">Clique ICI</a>  
