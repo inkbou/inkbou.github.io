@@ -1,1 +1,2 @@
-# inkbou.github.io
+# LE SITE EST EN CONSTRUCTION
+Pour le forum / wiki : clique forum.emhub.ch
